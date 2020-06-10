@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NetProtocol.Lockers
+namespace ExtraLockers
 {
     public sealed class LockTimeoutException : ApplicationException
     {
