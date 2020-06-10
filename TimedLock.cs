@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Diagnostics;
 
-namespace NetProtocol.Lockers
+namespace ExtraLockers
 {
     /*
       * http://www.interact-sw.co.uk/iangblog/2004/04/26/yetmoretimedlocking
