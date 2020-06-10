@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace NetProtocol.Lockers
+namespace ExtraLockers
 {
     public struct ReadWriteLock : IDisposable
     {
